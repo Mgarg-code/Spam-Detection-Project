@@ -12,4 +12,4 @@ downlod complet spam detection project folder
 
 ###########################################################project description############################################################
 
-# in this project we take a spamdata in the data we have two columns message and class
+# IN THIS PROJECT FIRST USER TYPE THEIR MESSAGE AND THE MODEL WILL PREDICT THAT ITS A SPAM MESSAGE OR A HAM MESSAGE
